@@ -1,2 +1,12 @@
 # Ignore IDE files
 .idea/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files / build
+*.class
+*.pyc
+/build/
+
